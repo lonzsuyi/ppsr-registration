@@ -1,0 +1,15 @@
+# Node & build artifacts
+node_modules
+.next
+dist
+
+# OS / IDE
+.DS_Store
+*.log
+.env*
+.vscode
+*.swp
+
+# Git
+.git
+.gitignore
